@@ -11,6 +11,8 @@ We splited in these following topics:
 ## How to configure Management Group's DiagnosticSettings
 - [Configuring-DiagnosticSettings.ps1](https://github.com/matheuspfermino/UsefulCLI-Commands/blob/main/Azure/ManagementGroup/Configuring-DiagnosticSettings.ps1)
 
+## How to disable Management Group's DiagnosticSettings
+- [Disable-DiagnosticSettings.ps1](https://github.com/matheuspfermino/UsefulCLI-Commands/blob/main/Azure/ManagementGroup/Disable-DiagnosticSettings.ps1)
 
 ## Authors
 
