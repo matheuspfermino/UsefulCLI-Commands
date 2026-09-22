@@ -1,17 +1,16 @@
 ﻿
 # With this topic you will be able to configure your Management Group Diagnostic Settings.
 
-# Before runing substitute <workspaceId> | Line 18
-# Before runing substitute <diagnosticSettings-name> | Line 34
-# Before runing substitute <managementGroupID> | Line 34
+# Before runing substitute <workspaceId> | Line 17
+# Before runing substitute <diagnosticSettings-name> | Line 33
+# Before runing substitute <managementGroupID> | Line 33
 
 # If you don't know your <workspaceId> try run:
 # Don't forget to substitute <RG> and <WORKSPACE> fields
 
 az monitor log-analytics workspace show --resource-group <RG> --workspace-name <WORKSPACE> --query id -o tsv
 
-
-# In lines 22 and 26 you can set Logs Category by switching between $true or $false.
+# In lines 21 and 25 you can set Logs Category by switching between $true or $false.
 
 $body = @{
     properties = @{
