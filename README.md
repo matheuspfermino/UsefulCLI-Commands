@@ -9,5 +9,5 @@ Our focus here is to doc Azure, Sentinel, OCI and GCP contents.
 
 ## Authors
 
-- [@mathespfermino](https://www.github.com/mathespfermino)
+- [@matheuspfermino](https://www.github.com/matheuspfermino)
 
